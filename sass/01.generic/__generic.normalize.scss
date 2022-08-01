@@ -1,0 +1,9 @@
+a {
+    color: $co-primary;
+    text-decoration: none;
+
+    &:hover {
+        color: $co-secondary;
+        text-decoration: underline;
+    }
+}
